@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Core Launch (LaCarteAuTresor)",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/LaCarteAuTresor/bin/Debug/net9.0/LaCarteAuTresor.dll",
+      "args": [
+        "--play",
+        "${workspaceFolder}/LaCarteAuTresor.Tests/TestFiles/InputFileTest.txt",
+        "${workspaceFolder}/LaCarteAuTresor.Tests/TestFiles/OutputFileTest.txt"
+      ],
+      "cwd": "${workspaceFolder}",
+      "justMyCode": false
+
+    }
+  ]
+}

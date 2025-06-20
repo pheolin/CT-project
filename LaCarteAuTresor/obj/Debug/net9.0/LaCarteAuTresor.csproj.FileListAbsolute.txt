@@ -1,0 +1,14 @@
+C:\Users\pheol\CT project\LaCarteAuTresor\obj\Debug\net9.0\LaCarteAuTresor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pheol\CT project\LaCarteAuTresor\obj\Debug\net9.0\LaCarteAuTresor.AssemblyInfoInputs.cache
+C:\Users\pheol\CT project\LaCarteAuTresor\obj\Debug\net9.0\LaCarteAuTresor.AssemblyInfo.cs
+C:\Users\pheol\CT project\LaCarteAuTresor\obj\Debug\net9.0\LaCarteAuTresor.csproj.CoreCompileInputs.cache
+C:\Users\pheol\CT project\LaCarteAuTresor\bin\Debug\net9.0\LaCarteAuTresor.exe
+C:\Users\pheol\CT project\LaCarteAuTresor\bin\Debug\net9.0\LaCarteAuTresor.deps.json
+C:\Users\pheol\CT project\LaCarteAuTresor\bin\Debug\net9.0\LaCarteAuTresor.runtimeconfig.json
+C:\Users\pheol\CT project\LaCarteAuTresor\bin\Debug\net9.0\LaCarteAuTresor.dll
+C:\Users\pheol\CT project\LaCarteAuTresor\bin\Debug\net9.0\LaCarteAuTresor.pdb
+C:\Users\pheol\CT project\LaCarteAuTresor\obj\Debug\net9.0\LaCarteAuTresor.dll
+C:\Users\pheol\CT project\LaCarteAuTresor\obj\Debug\net9.0\refint\LaCarteAuTresor.dll
+C:\Users\pheol\CT project\LaCarteAuTresor\obj\Debug\net9.0\LaCarteAuTresor.pdb
+C:\Users\pheol\CT project\LaCarteAuTresor\obj\Debug\net9.0\LaCarteAuTresor.genruntimeconfig.cache
+C:\Users\pheol\CT project\LaCarteAuTresor\obj\Debug\net9.0\ref\LaCarteAuTresor.dll
